@@ -1938,7 +1938,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff01ee;
+  background: #a20395;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3105,4 +3105,10 @@ pre .javascript .function {
   .post-body {
     text-align: justify;
   }
+}
+#days {
+  display: block;
+  color: #07b39b;
+  font-size: 13px;
+  margin-top: 15px;
 }
